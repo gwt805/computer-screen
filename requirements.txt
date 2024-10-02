@@ -1,0 +1,4 @@
+flask
+psutil
+GPUtil
+flask-cors
